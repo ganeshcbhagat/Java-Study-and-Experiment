@@ -1,0 +1,30 @@
+  <div class="row my-5">
+      <div class="col-sm-6 col-md-3 container">
+      <div class="card">
+        <div class="card-header bg-dark">
+          <span class="card-img-top fa fa-sign-in text-success text-center my-auto" style="font-size:40px">&nbsp;&nbsp;Sign in</span></div>
+      <div class="card-body">
+        <form action="/">
+          <div class="form-group">
+            <label for="loginFormEmail">E-mail</label>
+            <input type="email" id="loginFormEmail" class="form-control" placeholder="Enter email" required>
+          </div>
+          <div class="form-group">
+            <label for="loginFormPassword">Password</label>
+            <input type="password" id="loginFormPassword" class="form-control" placeholder="Enter password" required>
+            <div class="d-flex align-items-center justify-content-between">
+              <a [routerLink]="['/forgot-password']">Forgot password?</a>
+            </div>
+          </div>
+          <div class="form-group">
+            <button class="btn btn-outline-info btn-block my-3" type="submit">Sign in</button>
+            <div class="text-center">
+                <p><span>Not a member? <a [routerLink]="['/registration']">Register</a></span>
+                </p>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+    </div>
+  </div>
