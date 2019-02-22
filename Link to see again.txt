@@ -33,6 +33,14 @@ https://github.com/SystangoTechnologies/Springboard
 Scrimba for Angular Tutorials
 https://scrimba.com/p/pQxesM/c3vyVhp
 
-
 Spring boot sample
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
+
+Angular 6 - JWT Authentication Example & Tutorial
+http://jasonwatmore.com/post/2018/05/23/angular-6-jwt-authentication-example-tutorial
+
+Oauth 2 Centralized Authorization with Spring Boot 2.0.2 and Spring Security 5 and JDBC token store
+https://medium.com/@akourtim.ahmed/oauth-2-centralized-authorization-with-spring-boot-2-0-2-and-spring-security-5-and-jdbc-token-store-8dbc063bd5d4
+
+Java execrise
+https://www.leveluplunch.com/java/exercises/
