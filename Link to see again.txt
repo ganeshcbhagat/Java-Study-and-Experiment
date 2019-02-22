@@ -1,0 +1,38 @@
+Oauth 2 Centralized Authorization with Spring Boot 2.0.2 and Spring Security 5 and JDBC token store
+https://medium.com/@akourtim.ahmed/oauth-2-centralized-authorization-with-spring-boot-2-0-2-and-spring-security-5-and-jdbc-token-store-8dbc063bd5d4
+
+The Best Parts of Bootstrap 4 You are Missing in Angular Material
+https://www.amadousall.com/the-good-parts-of-bootstrap-4-you-are-missing-in-your-angular-material-projects/
+
+Angular 7 CRUD Example (Full Stack App)
+https://www.devglan.com/angular/angular-7-crud-example
+
+SPRING BOOT AND HIBERNATE SEARCH INTEGRATION
+http://blog.netgloo.com/2014/11/23/spring-boot-and-hibernate-search-integration/
+
+JPA / Hibernate One to Many Mapping Example with Spring Boot
+https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
+
+A Simple E-Commerce Implementation with Spring
+https://www.baeldung.com/spring-angular-ecommerce
+
+Spring Cloud – Adding Angular 4
+https://www.baeldung.com/spring-cloud-angular
+
+
+In-Memory Web API for Testing Angular Apps
+https://shermandigital.com/blog/in-memory-web-api-for-testing-angular-apps/
+
+angular-realworld-example-app
+https://github.com/gothinkster/angular-realworld-example-app
+https://github.com/tomastrajan/angular-ngrx-material-starter
+
+Production ready maven based Spring Boot starter kit application.
+https://github.com/SystangoTechnologies/Springboard
+
+Scrimba for Angular Tutorials
+https://scrimba.com/p/pQxesM/c3vyVhp
+
+
+Spring boot sample
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
